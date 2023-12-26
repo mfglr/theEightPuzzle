@@ -1,0 +1,5 @@
+/home/mfglr/theEightPuzzle/build/CMakeFiles/rebuild_cache.dir
+/home/mfglr/theEightPuzzle/build/CMakeFiles/edit_cache.dir
+/home/mfglr/theEightPuzzle/build/app/CMakeFiles/rebuild_cache.dir
+/home/mfglr/theEightPuzzle/build/app/CMakeFiles/edit_cache.dir
+/home/mfglr/theEightPuzzle/build/app/CMakeFiles/main.dir
